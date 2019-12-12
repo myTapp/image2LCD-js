@@ -1,5 +1,5 @@
 # image2LCD-js
-image conversion to TFT displays
+image conversion for TFT displays
 
 #### cli mode
 ```
